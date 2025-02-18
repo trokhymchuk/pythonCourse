@@ -1,0 +1,1 @@
+print("Trokhymchuk Artem, 3")
